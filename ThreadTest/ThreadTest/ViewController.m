@@ -17,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    /*
+   
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"任务0");
     dispatch_async(dispatch_queue_create(0, DISPATCH_QUEUE_CONCURRENT), ^{
@@ -32,7 +32,7 @@
     });
     
     NSLog(@"任务2");
-    */
+  
     
     //NSOperation
     /*
